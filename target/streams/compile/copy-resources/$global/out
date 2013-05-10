@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/Moncef/Programming/Odersky/forcomp/src/main/resources/forcomp,/Users/Moncef/Programming/Odersky/forcomp/target/scala-2.10/classes/forcomp)[0m
+[0m[[0mdebug[0m] [0m	(/Users/Moncef/Programming/Odersky/forcomp/src/main/resources/forcomp/linuxwords.txt,/Users/Moncef/Programming/Odersky/forcomp/target/scala-2.10/classes/forcomp/linuxwords.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/Moncef/Programming/Odersky/forcomp/src/main/resources/forcomp/test.sc,/Users/Moncef/Programming/Odersky/forcomp/target/scala-2.10/classes/forcomp/test.sc)[0m
